@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Json\Json\bin\Debug\Json.exe.config
+C:\Users\Admin\Desktop\Json\Json\bin\Debug\Json.exe
+C:\Users\Admin\Desktop\Json\Json\bin\Debug\Json.pdb
+C:\Users\Admin\Desktop\Json\Json\bin\Debug\IronXL.dll
+C:\Users\Admin\Desktop\Json\Json\bin\Debug\IronXL.xml
+C:\Users\Admin\Desktop\Json\Json\obj\Debug\Json.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Json\Json\obj\Debug\Json.Form1.resources
+C:\Users\Admin\Desktop\Json\Json\obj\Debug\Json.Properties.Resources.resources
+C:\Users\Admin\Desktop\Json\Json\obj\Debug\Json.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Json\Json\obj\Debug\Json.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Json\Json\obj\Debug\Json.csproj.CopyComplete
+C:\Users\Admin\Desktop\Json\Json\obj\Debug\Json.exe
+C:\Users\Admin\Desktop\Json\Json\obj\Debug\Json.pdb
