@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\darbas su ftp serveriu\darbas su ftp serveriu\bin\Debug\darbas su ftp serveriu.exe.config
+C:\Users\Admin\Desktop\darbas su ftp serveriu\darbas su ftp serveriu\bin\Debug\darbas su ftp serveriu.exe
+C:\Users\Admin\Desktop\darbas su ftp serveriu\darbas su ftp serveriu\bin\Debug\darbas su ftp serveriu.pdb
+C:\Users\Admin\Desktop\darbas su ftp serveriu\darbas su ftp serveriu\obj\Debug\darbas su ftp serveriu.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\darbas su ftp serveriu\darbas su ftp serveriu\obj\Debug\darbas_su_ftp_serveriu.Form1.resources
+C:\Users\Admin\Desktop\darbas su ftp serveriu\darbas su ftp serveriu\obj\Debug\darbas_su_ftp_serveriu.Properties.Resources.resources
+C:\Users\Admin\Desktop\darbas su ftp serveriu\darbas su ftp serveriu\obj\Debug\darbas su ftp serveriu.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\darbas su ftp serveriu\darbas su ftp serveriu\obj\Debug\darbas su ftp serveriu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\darbas su ftp serveriu\darbas su ftp serveriu\obj\Debug\darbas su ftp serveriu.exe
+C:\Users\Admin\Desktop\darbas su ftp serveriu\darbas su ftp serveriu\obj\Debug\darbas su ftp serveriu.pdb
