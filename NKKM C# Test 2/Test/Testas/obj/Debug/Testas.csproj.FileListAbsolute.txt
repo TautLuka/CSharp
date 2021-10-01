@@ -1,0 +1,30 @@
+C:\Users\WorkHorse\Desktop\Testas\Testas\bin\Debug\Testas.exe.config
+C:\Users\WorkHorse\Desktop\Testas\Testas\bin\Debug\Testas.exe
+C:\Users\WorkHorse\Desktop\Testas\Testas\bin\Debug\Testas.pdb
+C:\Users\WorkHorse\Desktop\Testas\Testas\obj\Debug\Testas.csprojAssemblyReference.cache
+C:\Users\WorkHorse\Desktop\Testas\Testas\obj\Debug\Testas.Form1.resources
+C:\Users\WorkHorse\Desktop\Testas\Testas\obj\Debug\Testas.Properties.Resources.resources
+C:\Users\WorkHorse\Desktop\Testas\Testas\obj\Debug\Testas.csproj.GenerateResource.cache
+C:\Users\WorkHorse\Desktop\Testas\Testas\obj\Debug\Testas.csproj.CoreCompileInputs.cache
+C:\Users\WorkHorse\Desktop\Testas\Testas\obj\Debug\Testas.exe
+C:\Users\WorkHorse\Desktop\Testas\Testas\obj\Debug\Testas.pdb
+C:\Users\WorkHorse\Desktop\PASKAITA 2021-05-08 TESTAS\Testas\Testas\bin\Debug\Testas.exe.config
+C:\Users\WorkHorse\Desktop\PASKAITA 2021-05-08 TESTAS\Testas\Testas\bin\Debug\Testas.exe
+C:\Users\WorkHorse\Desktop\PASKAITA 2021-05-08 TESTAS\Testas\Testas\bin\Debug\Testas.pdb
+C:\Users\WorkHorse\Desktop\PASKAITA 2021-05-08 TESTAS\Testas\Testas\obj\Debug\Testas.csprojAssemblyReference.cache
+C:\Users\WorkHorse\Desktop\PASKAITA 2021-05-08 TESTAS\Testas\Testas\obj\Debug\Testas.Form1.resources
+C:\Users\WorkHorse\Desktop\PASKAITA 2021-05-08 TESTAS\Testas\Testas\obj\Debug\Testas.Properties.Resources.resources
+C:\Users\WorkHorse\Desktop\PASKAITA 2021-05-08 TESTAS\Testas\Testas\obj\Debug\Testas.csproj.GenerateResource.cache
+C:\Users\WorkHorse\Desktop\PASKAITA 2021-05-08 TESTAS\Testas\Testas\obj\Debug\Testas.csproj.CoreCompileInputs.cache
+C:\Users\WorkHorse\Desktop\PASKAITA 2021-05-08 TESTAS\Testas\Testas\obj\Debug\Testas.exe
+C:\Users\WorkHorse\Desktop\PASKAITA 2021-05-08 TESTAS\Testas\Testas\obj\Debug\Testas.pdb
+C:\Users\tautv\Desktop\Tautvydas Lukaševičius C# Test Nr2\Test\Testas\bin\Debug\Testas.exe.config
+C:\Users\tautv\Desktop\Tautvydas Lukaševičius C# Test Nr2\Test\Testas\bin\Debug\Testas.exe
+C:\Users\tautv\Desktop\Tautvydas Lukaševičius C# Test Nr2\Test\Testas\bin\Debug\Testas.pdb
+C:\Users\tautv\Desktop\Tautvydas Lukaševičius C# Test Nr2\Test\Testas\obj\Debug\Testas.csprojAssemblyReference.cache
+C:\Users\tautv\Desktop\Tautvydas Lukaševičius C# Test Nr2\Test\Testas\obj\Debug\Testas.Form1.resources
+C:\Users\tautv\Desktop\Tautvydas Lukaševičius C# Test Nr2\Test\Testas\obj\Debug\Testas.Properties.Resources.resources
+C:\Users\tautv\Desktop\Tautvydas Lukaševičius C# Test Nr2\Test\Testas\obj\Debug\Testas.csproj.GenerateResource.cache
+C:\Users\tautv\Desktop\Tautvydas Lukaševičius C# Test Nr2\Test\Testas\obj\Debug\Testas.csproj.CoreCompileInputs.cache
+C:\Users\tautv\Desktop\Tautvydas Lukaševičius C# Test Nr2\Test\Testas\obj\Debug\Testas.exe
+C:\Users\tautv\Desktop\Tautvydas Lukaševičius C# Test Nr2\Test\Testas\obj\Debug\Testas.pdb
